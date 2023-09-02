@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabriong
-- 👀 I’m interested in Computational Biology, Biochemistry, and Synthetic Biology!
+- 👀 I’m interested in Computational and Systems Biology, Biochemistry, and Synthetic Biology!
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
